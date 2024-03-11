@@ -14,7 +14,7 @@ The primary goal of the Details Dashboard is to offer a comprehensive and user-f
 
 ### DASHBOARD 3: SUMMARY
 
-To effectively monitor and evaluate our bank's lending activities and performance, it is imperative to develop a comprehensive Bank Loan Report summary. This report  is designed to offer insights into critical loan-related metrics and their fluctuations over time, empowering us to make informed decisions, manage our loan portfolio effectively, and adapt the lending strategies based on emerging trends.
+To effectively monitor and evaluate the bank's lending activities and performance, it is imperative to develop a comprehensive Bank Loan Report summary. This report  is designed to offer insights into critical loan-related metrics and their fluctuations over time, empowering us to make informed decisions, manage our loan portfolio effectively, and adapt the lending strategies based on emerging trends.
 
 Key Performance Indicators (KPIs) Requirements:
 1. Total Loan Applications: It is essential to determine the aggregate number of loan applications received within a specified timeframe. Additionally, monitoring Month-to-Date (MTD) Loan Applications and analyzing Month-over-Month (MoM) changes are crucial for trend identification.
